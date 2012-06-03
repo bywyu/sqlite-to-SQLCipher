@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQLite-to-SQLCipher</string>
+    
+    <string name="hello">Welcome to the SQLite-to-SQLCipher application. This application will create an encrypted database from a sqlite file.</string>
+    <string name="success">Your database has been created, use the file browser in DDMS to find extract the file from the emulator</string>
+</resources>

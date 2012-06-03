@@ -1,0 +1,16 @@
+
+CREATE TABLE `user` (
+  `ID` INTEGER NOT NULL PRIMARY KEY,
+  `email` TEXT NOT NULL,
+  `name` TEXT NOT NULL);
+
+INSERT INTO `user` (`email`,`name`) VALUES ("test1@test.com", "Text User One");
+/*
+ * This is a test of the multiline comment removal
+*/
+INSERT INTO `user` (`email`,`name`) VALUES ("test2@test.com", "Text User Two");
+-- This is a test of the single line comment removal
+INSERT INTO `user` (`email`,`name`) VALUES ("test3@test.com", "Text User Three");
+
+INSERT INTO `user` (`email`,`name`) VALUES ("test4@test.com", "Text User Four");
+INSERT INTO `user` (`email`,`name`) VALUES ("test5@test.com", "Text User Five");
