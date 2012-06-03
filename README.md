@@ -22,7 +22,9 @@ This program is released as is without warrenty under an [Apache 2.0 license](ht
 Contact details
 -------
 Author: Dr Boo
+
 Website: [http://www.drspaceboo.com](http://www.drspaceboo.com/)
+
 Email: contact [at] drspaceboo [dot] com
 
 Please let me know about any improvements I can make to this. I am more then happy to incorporate commits if it means improving the application or user experience of this little tool.
